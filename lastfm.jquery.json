@@ -1,0 +1,24 @@
+{
+  "name": "lastfm",
+  "title": "jQuery lastfm",
+  "version": "1.1.0",
+  "description": "",
+  "keywords": [ "lastfm", "widget", "badge", "UI" ],
+  "author": {
+    "name": "Adrian Statescu",
+    "email": "mergesortv@gmail.com",
+    "url": "http://thinkphp.ro"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/markgx/jquery-lastfm/issues",
+  "homepage": "http://thinkphp.ro/apps/lastfm/jQuery/",
+  "docs": "http://thinkphp.ro/apps/lastfm/jQuery/",
+  "dependencies": {
+    "jquery": ">=1.7"
+  }
+}
