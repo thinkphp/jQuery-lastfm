@@ -1,7 +1,7 @@
 {
   "name": "lastfm",
   "title": "jQuery lastfm",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "",
   "keywords": [ "lastfm", "widget", "badge", "UI" ],
   "author": {
