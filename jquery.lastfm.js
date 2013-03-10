@@ -1,7 +1,7 @@
 /**
  * Plugin: jquery.lastfm
  * 
- * Version: 1.0.0
+ * Version: 1.1.0
  * (c) Copyright 2011, Adrian Statescu
  * 
  * Description: jQuery Plugin for recently listened tracks
