@@ -2,7 +2,7 @@
   "name": "lastfm",
   "title": "jQuery lastfm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This plugin will get the Recent Tracks for a lastfm user and it produces structured HTML with in-built CSS classes for styling.",
   "keywords": [ "lastfm", "widget", "badge", "UI" ],
   "author": {
     "name": "Adrian Statescu",
