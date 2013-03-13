@@ -1,6 +1,7 @@
 # jQuery-lastfm
 
 This plugin will get the Recent Tracks for a lastfm user and it produces structured HTML with in-built CSS classes for styling.
+check it out: [http://plugins.jquery.com/lastfm/]
 
 # Usage
 
@@ -32,3 +33,5 @@ $(document).ready(function(){
 # License
 
   MIT
+  
+[http://plugins.jquery.com/lastfm/]: http://plugins.jquery.com/lastfm/
